@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=E7bkbArtUYog3r8P1SILuVpj4P2mpFvEoj2RWBMiaKU)]
+![MasterHead](https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=E7bkbArtUYog3r8P1SILuVpj4P2mpFvEoj2RWBMiaKU)
 <h1 align="center">Hi 👋, I'm Zaid iqbal</h1>
 <h3 align="center">A Young Explorer....</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif">
